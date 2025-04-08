@@ -1,0 +1,11 @@
+commit dabacdec8b9ddacfcb5017bcd3d50769f8cda209
+Author: [andre castellanos] <[mcastellanosm12@miumg.edu.gt]>
+Date:   Tue Apr 8 11:28:04 2025 -0600
+
+    parcial2
+
+commit 8389e0eae4fc95b643492a477ab1b4eb0154e91f
+Author: AndreCastellanos12 <mcastellanosm12@miumg.edu.gt>
+Date:   Tue Apr 8 11:08:37 2025 -0600
+
+    Initial commit
